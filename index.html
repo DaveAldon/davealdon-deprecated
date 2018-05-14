@@ -2,27 +2,39 @@
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/ajax-navigation.js"></script>
 		<title>Home</title>
 	</head>
 	<body>
 		<div id="wrap">
 			<div id="nav">
-        <div class="btn"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Home</div>
-        <div class="btn"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Books</div>
-        <div class="btn"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Blog</div>
+        <div class="btn nav-link" href="pages/home.html"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Home</div>
+        <div class="btn nav-link" href="pages/books.html"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Books</div>
+        <div class="btn nav-link" href="pages/blog.html"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Blog</div>
       </div>
 		</div>
 	  <div id="content"></div>
 	</body>
 </html>
 <style>
+  #nav {
+    background-color: black
+  }
+  #wrap {
+    background-color: white
+  }
+
 	@font-face {
 	    font-family: 'brandon_grotesque_regularRg';
 	    src: url('fonts/brandon_reg-webfont.woff2') format('woff2');
 	    font-weight: normal;
 	    font-style: normal;
 	}
-  @import "bourbon";
+
+  html {
+	   font-family: "brandon_grotesque_regularRg", sans-serif;
+  }
+
   #nav * {
   	-webkit-transition-property: all;
   	-webkit-transition-duration: .2s;
@@ -31,14 +43,19 @@
   	-moz-transition-duration: .2s;
     -moz-transition-timing-function: cubic-bezier(100,50,21,6);
   }
-  h1{  font-family: 'Oswald', sans-serif;
+
+  h1 {
+    /*font-family: 'Oswald', sans-serif;*/
     color:#c78e2d;
   }
+
   body {
     background-color: #373737;
-    font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Open Sans', sans-serif;*/
     text-align: center;
     font-weight:100;
+    margin: 0;
+    padding: 0;
   }
 
   .btn {
@@ -71,7 +88,6 @@
     stroke-dasharray: 10, 310;
     stroke-dashoffset: 33;
   }
-
   .btn:hover {
     color:#fff;
     font-size:18px;
