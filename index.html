@@ -6,12 +6,18 @@
 		<title>Home</title>
 	</head>
 	<body>
-		<div id="wrap">
-			<div id="nav">
-        <div class="btn nav-link" href="pages/home.html"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Home</div>
-        <div class="btn nav-link" href="pages/books.html"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Books</div>
-        <div class="btn nav-link" href="pages/blog.html"><svg><rect x="0" y="0" fill="none" width="166" height="45"/></svg>Blog</div>
-      </div>
+		<div id="nav">
+			<nav id="nav-main">
+		    <ul>
+					<li><a class="nav-link" href="home.html">Home</a></li>
+					<li><a class="nav-link" href="books.html">Books</a></li>
+					<li><a class="nav-link" href="blog.html">Blog</a></li>
+				</ul>
+	    </nav>
+	    <div id="nav-trigger">
+	    	<span>Menu</span>
+			</div>
+	    <nav id="nav-mobile"></nav>
 		</div>
 	  <div id="content"></div>
 	</body>
@@ -20,33 +26,49 @@
   #content {
     width: 100%;
   }
-  #nav {
+	#nav {
+		height: 55px;
+	}
+
+	a.hovertext {
+    position: relative;
+    width: 100%;
+    text-decoration: none !important;
     text-align: center;
-    background-color: black;
-    height: 45px;
   }
-  #wrap {
-    background-color: green
+
+	a.hovertext:after {
+	  float: left;
+		content: attr(title);
+		position: absolute;
+	  left: 0;
+	  bottom: 0;
+	  padding-top: 0.5em;
+		padding-bottom: 0.5em;
+	  width: 100%;
+	  background: #E6002B;
+	  text-decoration: none !important;
+	  color: #FFF;
+	  opacity: 0;
+	  -webkit-transition: 0.5s;
+	  -moz-transition: 0.5s;
+	  -o-transition: 0.5s;
+	  -ms-transition: 0.5s;
+	}
+
+a.hovertext:hover:after, a.hovertext:focus:after {
+    opacity: 1.0;
   }
 
 	@font-face {
-	    font-family: 'brandon_grotesque_regularRg';
-	    src: url('fonts/brandon_reg-webfont.woff2') format('woff2');
-	    font-weight: normal;
-	    font-style: normal;
+    font-family: 'brandon_grotesque_regularRg';
+    src: url('fonts/brandon_reg-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 	}
 
   html {
-	   font-family: "brandon_grotesque_regularRg", sans-serif;
-  }
-
-  #nav * {
-  	-webkit-transition-property: all;
-  	-webkit-transition-duration: .2s;
-    -moz-transition-timing-function: cubic-bezier(100,50,21,6);
-  	-moz-transition-property: all;
-  	-moz-transition-duration: .2s;
-    -moz-transition-timing-function: cubic-bezier(100,50,21,6);
+		font-family: "brandon_grotesque_regularRg", sans-serif;
   }
 
   body {
@@ -58,40 +80,128 @@
     height: 100%;
   }
 
-  .btn {
-    position: relative;
-    display: inline-block;
-    width: 166px;
-    height: 45px;
-    font-size: 12px;
-    line-height: 45px;
-    text-align: center;
-    text-transform: uppercase;
-    color: #fff;
-    cursor: pointer;
-    overflow: hidden;
-  }
-  .btn svg {
-    position: absolute;
-    top: 0; left: 0;
-  }
-  .btn svg rect {
-    fill: none;
-    stroke: #fff;
-    stroke-width: 1;
-    stroke-dasharray: 422, 0;
+	#nav-trigger {
+	  display: none;
+	  text-align: center;
+	}
 
-    @include transition(all 1300ms $ease-out-expo);
+	#nav-trigger span {
+    display: inline-block;
+    padding: 14px 30px;
+    background-color: #FF0032;
+    color: #FFF;
+    cursor: pointer;
+    text-transform: uppercase;
+	}
+
+	#nav-trigger span:after {
+    display: inline-block;
+    margin-left: 10px;
+    width: 20px;
+    height: 10px;
+    content: "";
+    border-left: solid 10px transparent;
+    border-top: solid 10px #FFF;
+    border-right: solid 10px transparent;
   }
-  .btn:hover svg rect {
-    stroke-width: 5;
-    stroke-dasharray: 10, 310;
-    stroke-dashoffset: 33;
-  }
-  .btn:hover {
-    color:#fff;
-    font-size:18px;
-    letter-spacing:1px;
-    font-weight:bold;
-  }
+
+	#nav-trigger span:hover {
+		background-color: #E6002B;
+	}
+
+	#nav-trigger span.open:after {
+		border-left: solid 10px transparent;
+		border-top: none;
+		border-bottom: solid 10px #FFF;
+		border-right: solid 10px transparent;
+	}
+
+	nav#nav-main {
+	  background-color: #212121;
+		height: 100%;
+	}
+
+	nav#nav-main ul {
+		height: 100%;
+	  list-style-type: none;
+	  margin: 0;
+	  padding: 0;
+		text-align: center;
+	}
+
+	nav#nav-main li {
+		height: 100%;
+	  display: inline-block;
+		text-align:center;
+	}
+
+	nav#nav-main a {
+		height: 25px;
+		display: block;
+		color: #FFF;
+		padding: 15px 30px;
+		text-decoration: none;
+	}
+
+	nav#nav-main a:hover {
+		background-color: #E6002D;
+		color: #FFF;
+	}
+
+	nav#nav-mobile {
+		position: relative;
+		display: none;
+		z-index: 1;
+	}
+
+	nav#nav-mobile ul {
+		margin-top: 0px;
+		display: none;
+		list-style-type: none;
+		position: absolute;
+		text-align: center;
+	  background-color: #212121;
+		width: 100%;
+		font-size:36px;
+	}
+
+	nav#nav-mobile li {
+	  display: block;
+	  padding: 20px -10px;
+	  margin: 0 -50px;
+		margin-right: 20px;
+	  border-bottom: solid 1px #CC0028;
+	}
+
+	nav#nav-mobile li:last-child {
+	  border-bottom: none;
+	}
+
+	nav#nav-mobile a {
+	  display: block;
+	  color: white;
+	  padding: 10px 30px;
+		text-decoration: none;
+	}
+
+	nav#nav-mobile a:hover {
+		background-color: #E6002D;
+		color: #FFF;
+	}
+
+/* Media Queries */
+@media screen and (max-width: 400px) {
+  #nav-trigger {
+    display: block;
+	}
+
+  nav#nav-main {
+    display: none;
+	}
+
+  nav#nav-mobile {
+    display: block;
+	}
+}
+
 </style>
