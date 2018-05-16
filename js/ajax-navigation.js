@@ -1,6 +1,6 @@
 function navigate(pageRef) {
 	// AJAX shorthand for dumping html contents into element
-	$('#content').load(pageRef);
+	$('#wrap').load(pageRef);
 }
 
 jQuery(document).ready(function($) {
@@ -15,7 +15,7 @@ jQuery(document).ready(function($) {
           $(this).addClass("open");
       }
   });
-		
+
   // Default to homepage
   navigate("pages/home.html")
   // Click event for nav links to run ajax on content element
