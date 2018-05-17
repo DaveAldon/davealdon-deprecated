@@ -1,9 +1,14 @@
 <div id="cover">
-  <img src="images/cover.jpg" alt="the king" width="100%">
+  <img src="images/cover-sunset.jpg" alt="the sunset" width="100%">
 </div>
 
 <div id="content">
-  <p>Main content stuff</p>
+  <h1>Main content stuff</h1>
+  <div id="columns">
+    <div class="column-center">Column center</div>
+    <div class="column-left">Column left</div>
+    <div class="column-right">Column right</div>
+  </div>
 </div>
 
 <div id="cue">
@@ -19,6 +24,18 @@
   });
 </script>
 <style>
+  .column-left {
+    float: left;
+    width: 33%;
+  }
+  .column-right {
+    float: right;
+    width: 33%;
+  }
+  .column-center {
+    display: inline-block;
+    width: 33%;
+  }
   #cover {
     width: 100%;
   }
@@ -35,7 +52,6 @@
     width: 100px;
     height: 0px;
   }
-
   .arrow {
     margin: 0;
     width: 1px;
@@ -57,6 +73,13 @@
     }
     60% {
       transform: translateY(-15px);
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    .column-left, .column-right, .column-center {
+      float: none;
+      width: 100%;
     }
   }
 </style>
