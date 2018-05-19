@@ -5,11 +5,11 @@ jQuery(document).ready(function($) {
 	// Handler for mobile menu
   $("#nav-mobile").html($("#nav-main").html());
   $("#nav-trigger span").click(function(){
-      if ($("nav-bar#nav-mobile ul").hasClass("expanded")) {
-          $("nav-bar#nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
+      if ($("nav#nav-mobile ul").hasClass("expanded")) {
+          $("nav#nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
           $(this).removeClass("open");
       } else {
-          $("nav-bar#nav-mobile ul").addClass("expanded").slideDown(250);
+          $("nav#nav-mobile ul").addClass("expanded").slideDown(250);
           $(this).addClass("open");
       }
   });
