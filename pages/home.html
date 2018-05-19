@@ -1,85 +1,61 @@
-<div id="cover">
-  <img src="images/cover-sunset.jpg" alt="the sunset" width="100%">
-</div>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="../js/ajax-navigation.js"></script>
+		<link rel="stylesheet" type="text/css" href="../style/master-style.css"/>
 
-<div id="content">
-  <h1>Main content stuff</h1>
-  <div id="columns">
-    <div class="column-center">Column center</div>
-    <div class="column-left">Column left</div>
-    <div class="column-right">Column right</div>
-  </div>
-</div>
+		<title>Dave Aldon</title>
+	</head>
+	<body>
+		<div id="nav"></div>
+	  <div id="wrap">
+			<div id="cover">
+        <img src="../images/cover-sunset.jpg" alt="the sunset" width="100%">
+      </div>
 
-<div id="cue">
-  <div class="arrow">
-  </div>
-</div>
-<script>
-  // Hide the arrow once you scroll a certain amount
-  $(window).scroll(function() {
-    if($(window).scrollTop()  == 100) {
-      $('#cue').toggle()
-    }
-  });
-</script>
+      <div id="content">
+        <h1>Dave Aldon</h1>
+        <p>
+          Author of a growing collection of books, Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Fusce porttitor eleifend blandit. Pellentesque ac nunc interdum, tincidunt nibh vel,
+          vestibulum sem. Praesent faucibus blandit justo ac dignissim.
+        </p>
+        <div id="columns">
+          <div class="column-center">
+            <h3>Recent Post</h3>
+          </div>
+          <div class="column-left">
+            <h3>Latest Release</h3>
+            <!--<img src="../images/my-fathers-house.jpg" alt="my fathers house" width="100%">-->
+          </div>
+          <div class="column-right">
+            <h3>Something</h3>
+          </div>
+        </div>
+      </div>
+		</div>
+		<div id="footer"></div>
+	</body>
+</html>
 <style>
-  .column-left {
-    float: left;
-    width: 33%;
-  }
-  .column-right {
-    float: right;
-    width: 33%;
-  }
-  .column-center {
-    display: inline-block;
-    width: 33%;
-  }
-  #cover {
-    width: 100%;
-  }
-  #content {
-    background-color: black;
-    margin: 0 10% 0 10%;
-  }
-  #cue {
-    position: absolute;
-    margin: auto;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100px;
-    height: 0px;
-  }
-  .arrow {
-    margin: 0;
-    width: 1px;
-    height: 0;
-    border-left: 20px solid transparent;
-    border-right: 20px solid transparent;
-    border-top: 20px solid gray;
-    -moz-animation: bounce 4s infinite;
-    -webkit-animation: bounce 4s infinite;
-    animation: bounce 4s infinite;
-  }
-
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-30px);
-    }
-    60% {
-      transform: translateY(-15px);
-    }
-  }
-
-  @media screen and (max-width: 400px) {
-    .column-left, .column-right, .column-center {
-      float: none;
-      width: 100%;
-    }
-  }
+.column-left {
+	float: left;
+	width: 33%;
+}
+.column-right {
+	float: right;
+	width: 33%;
+}
+.column-center {
+	display: inline-block;
+	width: 33%;
+}
+#cover {
+	width: 100%;
+}
+#content {
+	background-color: black;
+	margin: 0 10% 0 10%;
+}
 </style>

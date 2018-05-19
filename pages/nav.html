@@ -1,0 +1,173 @@
+<div id="#nav-bar">
+  <nav id="nav-main">
+    <ul>
+      <li><a class="nav-link" href="pages/index.html">Home</a></li>
+      <li><a class="nav-link" href="pages/books.html">Books</a></li>
+      <li><a class="nav-link" href="pages/blog.html">Blog</a></li>
+    </ul>
+  </nav>
+  <div id="nav-trigger">
+    <span>Menu</span>
+  </div>
+  <nav id="nav-mobile"></nav>
+</div>
+<style>
+  #nav-bar {
+    height: 100%;
+  }
+  a.hovertext {
+    position: relative;
+    width: 100%;
+    text-decoration: none !important;
+    text-align: center;
+  }
+  a.hovertext:after {
+    float: left;
+    content: attr(title);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    width: 100%;
+    background: #E6002B;
+    text-decoration: none !important;
+    color: #FFF;
+    opacity: 0;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    -ms-transition: 0.5s;
+  }
+
+  a.hovertext:hover:after, a.hovertext:focus:after {
+    opacity: 1.0;
+  }
+
+  #nav-trigger {
+    display: none;
+    text-align: center;
+  }
+
+  #nav-trigger span {
+    display: inline-block;
+    padding: 14px 30px;
+    background-color: #FF0032;
+    color: #FFF;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+
+  #nav-trigger span:after {
+    display: inline-block;
+    margin-left: 10px;
+    width: 20px;
+    height: 10px;
+    content: "";
+    border-left: solid 10px transparent;
+    border-top: solid 10px #FFF;
+    border-right: solid 10px transparent;
+  }
+
+  #nav-trigger span:hover {
+    background-color: #E6002B;
+  }
+
+  #nav-trigger span.open:after {
+    border-left: solid 10px transparent;
+    border-top: none;
+    border-bottom: solid 10px #FFF;
+    border-right: solid 10px transparent;
+  }
+
+  nav#nav-main {
+    background-color: #212121;
+    height: 100%;
+  }
+
+  nav#nav-main ul {
+    height: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  nav#nav-main li {
+    height: 100%;
+    display: inline-block;
+    text-align:center;
+  }
+
+  nav#nav-main a {
+    height: 25px;
+    display: block;
+    color: #FFF;
+    padding: 15px 30px;
+    text-decoration: none;
+  }
+
+  nav#nav-main a:hover {
+    background-color: #E6002D;
+    color: #FFF;
+  }
+
+  nav#nav-mobile {
+    position: relative;
+    display: none;
+    z-index: 1;
+  }
+
+  nav#nav-mobile ul {
+    margin-top: 0px;
+    display: none;
+    list-style-type: none;
+    position: absolute;
+    text-align: center;
+    background-color: #212121;
+    width: 100%;
+    font-size:36px;
+  }
+
+  nav#nav-mobile li {
+    display: block;
+    padding: 20px -10px;
+    margin: 0 -50px;
+    margin-right: 20px;
+    border-bottom: solid 1px #CC0028;
+  }
+
+  nav#nav-mobile li:last-child {
+    border-bottom: none;
+  }
+
+  nav#nav-mobile a {
+    display: block;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+  }
+
+  nav#nav-mobile a:hover {
+    background-color: #E6002D;
+    color: #FFF;
+  }
+
+  /* Media Queries */
+  @media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+    #nav-trigger {
+      display: block;
+    }
+
+    nav#nav-main {
+      display: none;
+    }
+
+    nav#nav-mobile {
+      display: block;
+    }
+  }
+</style>
