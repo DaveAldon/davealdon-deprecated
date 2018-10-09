@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
 url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Dave Aldon # site's title
+description: "God and Writing" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Dave Aldon # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -21,7 +21,7 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "davealdon"
   google_plus:
   instagram:
   keybase:
@@ -40,37 +40,37 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: davealdon # "twitter username"
   vimeo:
   wordpress:
   youtube:
-  
+
   # Sharing options
   share_buttons:
-    facebook: true
+    facebook:
     twitter: true
-    google_plus: true
+    google_plus:
     tumblr:
     pinterest:
     pocket:
-    reddit: true
+    reddit:
     linkedin:
     wordpress:
-    email: true
+    email:
 
-  # Scripts / Features 
+  # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  
+
   special_page:
-    search: 
+    search:
       icon: "search"
       enabled: true
     tags:
       icon: "tags"
       enabled: true
-  
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -92,7 +92,7 @@ theme_settings:
 
   # Post navigation
   post_navigation: true
-  
+
   
 # PAGINATION
 paginate: 5
