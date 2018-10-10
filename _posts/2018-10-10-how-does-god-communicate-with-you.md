@@ -49,3 +49,5 @@ The point of this short story about my life is that this is how God talks to me.
 God is always talking to us, but sometimes we can't quite make out the words. Find out how God is talking to you and what he's saying by first asking for forgiveness like Isaiah, and then start trusting him with decisions, problems, and your life. He wants you to give your worries to him, he wants you to hear him, and he wants you to trust him.
 
 >Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. - Romans 12:2
+
+![Dave Aldon thumbs up]({{ site.baseurl }}/assets/img/me_signature.jpg)
