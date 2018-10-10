@@ -5,49 +5,47 @@ tags: [Theology, communication, personality]
 excerpt_separator: <!--more-->
 ---
 
-It's often that works of literature are heralded as creative and original by how similarly creative and original their story is. For example, a simple glance on [Goodreads'](https://www.goodreads.com/list/show/15436.Most_original) list of most original books contains countless novels that nearly everyone has at least read or heard of. What made them unique? In general, it was their story. Now you might be thinking that this article is about how to make a creative story, however, I'll be taking a different approach. There's already thousands of articles and even books on how to create creative stories, so I don't want to add another to the pile.
+God is always talking. Sometimes people hear him, sometimes they don't. There's a lot of stories out there about people *hearing* God or *knowing* what his plan is for them. But what about when you don't? What about when you feel like God isn't saying anything? I believe there's two things to consider when this happens: you can't hear anything because there is sin in the way, and/or you haven't discovered how God wants to uniquely talk to you. The first reason comes from Isaiah, after a sermon at my church covered this incredible text, and the second comes from personal experience and various scriptures.
 <!--more-->
 
-![Juliet is the Sun handwritten on an iPad]({{ site.baseurl }}/assets/img/pexels/juliet-is-the-sun.jpeg)
+![Man talking through can]({{ site.baseurl }}/assets/img/pexels/marketing-man-person-communication.jpg)
 
-In this article, we'll be looking at how grammar can help make a work of literature unique. When I began writing, I was constantly worried that my tales might conflict with the millions of other books out there. I wanted to find a way to create my work differently, to find another angle of presentation, and also increase my writing skill at the same time. Once I found a way, it helped make the story differentiate itself from others quite well.
+### There is sin in the way
 
-Now there's no rule to follow to create a different grammar style, but I'll share what I did in hopes that it might help someone find their own way.
+In Isaiah 6, simply put the prophet Isaiah encounters God. In this fantastic display, Isaiah realizes how unworthy he is to be before God. This is because to be before something so holy and perfect means that our imperfections and failures become all the more obvious.
 
-Here was my plan:
+>“Woe to me!” I cried. “I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the Lord Almighty.”
 
-### Have a story
+Immediately after this, a seraphim touches his mouth with coal from God's altar.
 
-Before I thought about the presentation of my writing, I had to have a story. There are several types of writers, and some can begin writing immediately, some need to write outlines, and some need to just think about it for a while. It took me a long time to simply think about it and get it together, but that's my creative process and it worked for me. Find your best method.
+>With it he touched my mouth and said, “See, this has touched your lips; your guilt is taken away and your sin atoned for.”
 
-### Find what stresses your capabilities
+And all the wrong in Isaiah's life is taken away. At that very moment, he is made right with God. But the important thing to note here is what happens after this, what happens after the sin in Isaiah's life is out of the way. Now, the Bible is purposeful in how its words are arranged, and sometimes the little things shouldn't be glossed over. The next verse in this chapter begins with:
 
-Your writing ability needs to be pushed to the point where you've reached something that you don't think you can write about. I discovered a few exotic works of literature that intrigued me, and they were all [lipograms](https://www.thoughtco.com/what-is-a-lipogram-1691244), a form of constrained writing. One was Gadsby by Ernest Vincent Wright, which doesn't contain the letter "e" throughout the entire book. There were several others, and they all practiced similar constrained writing methods. I thought that this might be interesting, and it was certainly something I didn't think I could do for an entire novel. This may not be you, but I didn't want the sole focus of my story to be on the constrained writing quality. I felt that it would instead enhance its presentation in a deeper way, and be a supplemental factor to the language of the book.
+>Then I heard the voice of the Lord saying
 
-### Employ your tactic
+It does *not* say "Then the Lord said," or "I heard the Lord say." It says *then* I heard the voice of the Lord *saying*. God was talking the whole time, and only *now* does Isaiah hear the Lord *saying* anything. Only after Isaiah recognizes his sin, and after his sins are taken away, can he hear what God has been saying the whole time. This happened to Isaiah for us to understand that sin gets in the way of hearing God. That is why I believe it is the first and most important thing to look for if we're wondering why we may not be "hearing" anything, or why we feel like there's something gnawing at us when we ask God to speak. God is always talking, and it's forgiveness that allows us hear him.
 
-"Juliet is the sun" (From Romeo and Juliet) is in my opinion one of the most powerful metaphors you can find. I wanted this same strength in my story, and I also wanted to use a constrained writing method. So then what? Well I thought about how powerful metaphors are both in design and writing. Then I thought about the weakness of the metaphor: The Simile.
+But what about after this? What about after forgiveness, after the guilt and the shame is removed from our lives? You may feel like you sometimes hear God, but not always. You get glimpses, but never the whole thing. Sometimes it makes sense, and sometimes you're just left confused. Or maybe you're still not hearing anything at all? Forgiveness, that first step, changes us. And God is always drawing us towards the opposite of who we used to be. Before we go into this, know this simple promise:
 
-"Juliet is like the sun" simply isn't as special as the original quote, and doesn't show the same inherent qualities attempted to be conveyed. For, Juliet is the sun. She doesn't have similar qualities that sun has, but the same qualities. In fact, there's no difference between the two.
+>I will instruct you and teach you in the way you should go; I will counsel you with my loving eye on you. - Psalm 32:8
 
-My tactic? I would use constrained writing and never use any common similes. Yes, the definition of a simile isn't limited to comparison using "like" or "as" but it was a start, and would remove any direct similes. I would be forced to use metaphors for comparison.
+### God knows your language, do you?
 
-Now similes can be incredibly beautiful, especially in poetic writing, but I made a decision to omit their use entirely for the purpose of being constrained and forced to find a harder route. My book needed to be difficult to write so as to pay attention to each sentence with the same care as the last.
+Behavioral assessments like Myers–Briggs or DISC tell us how we prefer to interact with people, and how we prefer to be interacted with. We all have different minds, personalities, and behaviors, so we see and miss different things in life. They are our flaws and our strengths. But this is not something God takes into account, because if we approach God blameless and with forgiven sin, he's going to talk to us in a whole new way, a way that isn't concerned with our pasts, our personalities, or our human nature.
 
-### Your tactic may hinder progress in the beginning, but it has lasting benefits
+>Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come. - 2 Corinthians 5:17
 
-While the words "like" and "as" never show up in my story, I never realized how much we naturally use them. For example:
+The only way I felt I could further explain how God communicates with us is through a part of my life story. My personality feeds off of control, certainty, explanations, and results. This causes incredible worry and doubt when things aren't going great. But this is also *all* fixed by complete trust in God. Trust requires us to get rid of our pride and put something other than ourselves in its place. The first time I practiced this was in college, and I was interested in a girl. At the time I was trying to pray more, and was still only getting *glimpses* of God talking to me. I felt like this was a good opportunity to practice something I read  about in the Bible around that time:
 
->"As they walked past a tree, it looked like it might fall."
+>“‘Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,’ says the Lord Almighty, ‘and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.’” - Malachi 3:10
 
-The occurrences of "like" and "as" may not even be direct comparisons, but I had to stick with my rule and find a different way of communicating my idea:
+I wanted to *test* God by giving him my complete trust, and seeing what he would do with it, because I knew he would do something. I prayed to God that if this girl was not right for me, for him to take her away from my life so that I wouldn't have to think about her anymore. I had to believe that this was how he was going to communicate his plan to me, and what I gave up in return was control over my relationships, worry over making the wrong decisions, and thinking that I knew what was good for me. The next day I went to class and she wasn't there. A week later I asked a friend about her, and he said she dropped out for some reason. It was at that moment a great weight was lifted, and I knew with absolute certainty that I had nothing to worry about anymore, because God is to this day taking care of me.
 
->"While they walked past a tree, it showed signs that it might fall."
+The point of this short story about my life is that this is how God talks to me. I can't hear him unless my sins are forgiven, and when he talks to me he's expecting absolute trust. I had to make that leap, and it gets easier and easier the more I give to him. Other possible relationships have all been dealt with in the same way, and God has *always* done what I asked. When it comes to relationships, this is how God talks to me. It is nearly the same for everything else in my life.
 
-Though simple fixes, they really made me think through every single sentence. It was a pain for a while, but eventually my brain began to think without common similes, and it became a habit of not using them. Although more prominent in descriptions of people and things, metaphors dig deeper the more you use them and the less you use similes.
+>"I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing." - John 15:5
 
-Here's an excerpt from *Portents of a Weeping World* that shows a part of the result of omitting similes:
+God is always talking to us, but sometimes we can't quite make out the words. Find out how God is talking to you and what he's saying by first asking for forgiveness like Isaiah, and then start trusting him with decisions, problems, and your life. He wants you to give your worries to him, he wants you to hear him, and he wants you to trust him.
 
->“It was all the earth that reflected the light and beauty of her face. Her hair was a waterfall, ever flowing and setting the stars. Her lips the springtime roses blooming, full and void of imperfection, yet wielding beneath their splendor a tongue grasping thorns that pierce if unheeded. Her eyes bore the flames of fluent jasper, trailing into smoke of agate and diamond. She was the end of bedlam, master of all the wonderful, and empress of the empyreans. She turned and faced Daeon, he lost all breath and could not hold her gaze.”
-
-As I said before, this article is about my method, and isn't intended to be a rule or solution for finding a unique grammar style, merely an idea to find your own. You may not even want or need to find one, but if you're looking for a way to further make your book special and differentiate itself from the masses, this might help. It doesn't even have to be grammar! But try and dig deeper than the story, and think about its presentation.
+>Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. - Romans 12:2

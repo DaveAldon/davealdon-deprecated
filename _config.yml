@@ -9,7 +9,7 @@ description: "God and Writing" # used by search engines
 theme_settings:
   # Meta
   title: Dave Aldon # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
@@ -20,7 +20,7 @@ theme_settings:
 
   # Icons
   rss: # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "davealdonbooks@gmail.com" # Full email address, e.g. "sam@example.com"
   behance: davidcrawford
   bitbucket:
   dribbble:
@@ -31,14 +31,14 @@ theme_settings:
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: davealdon # "twitter username"
+  twitter: # "twitter username"
   vimeo:
   wordpress:
   youtube:
