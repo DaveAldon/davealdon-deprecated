@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The bear minimum for Salvation
+title: The bare minimum for Salvation
 tags: [Theology, Salvation, Jesus, Old Testament]
 excerpt_separator: <!--more-->
 ---
