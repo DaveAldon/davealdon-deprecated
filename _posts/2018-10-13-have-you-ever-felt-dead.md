@@ -111,5 +111,3 @@ because you will not abandon me to the realm of the dead,
 You make known to me the path of life;
     you will fill me with joy in your presence,
     with eternal pleasures at your right hand. - Psalm 16:9-11
-
-![Dave Aldon thumbs up]({{ site.baseurl }}/assets/img/me_signature.jpg)

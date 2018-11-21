@@ -51,5 +51,3 @@ Here's an excerpt from *Portents of a Weeping World* that shows a part of the re
 >“It was all the earth that reflected the light and beauty of her face. Her hair was a waterfall, ever flowing and setting the stars. Her lips the springtime roses blooming, full and void of imperfection, yet wielding beneath their splendor a tongue grasping thorns that pierce if unheeded. Her eyes bore the flames of fluent jasper, trailing into smoke of agate and diamond. She was the end of bedlam, master of all the wonderful, and empress of the empyreans. She turned and faced Daeon, he lost all breath and could not hold her gaze.”
 
 As I said before, this article is about my method, and isn't intended to be a rule or solution for finding a unique grammar style, merely an idea to find your own. You may not even want or need to find one, but if you're looking for a way to further make your book special and differentiate itself from the masses, this might help. It doesn't even have to be grammar! But try and dig deeper than the story, and think about its presentation.
-
-![Dave Aldon thumbs up]({{ site.baseurl }}/assets/img/me_signature.jpg)

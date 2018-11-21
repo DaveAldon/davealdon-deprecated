@@ -60,5 +60,3 @@ Throughout history, salvation has depended on professing that Jesus is Lord, and
 *And there is salvation in no one else*. Profess with your mouth that Jesus is Lord, and believe in your heart that he died for your sins, and you will be saved! There is nothing more to worry about, that’s it! No matter what you’ve done, or how much more you can do, if you do this you will be saved. We have all sinned, so which criminal are you on the cross with Jesus?
 
 >For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved. As Scripture says, “Anyone who believes in him will never be put to shame.” For there is no difference between Jew and Gentile—the same Lord is Lord of all and richly blesses all who call on him, for, “Everyone who calls on the name of the Lord will be saved.” - Romans 10:10-13, which quotes the Old Testament Joel 2:32
-
-![Dave Aldon thumbs up]({{ site.baseurl }}/assets/img/me_signature.jpg)

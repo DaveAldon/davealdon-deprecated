@@ -65,5 +65,3 @@ This man exemplifies the behavior God wants from us. Though he knew God was acti
 Without prayer, we die. Without prayer, we never communicate our desires to God, though he knows them already, so we get anxious and take control. And without prayer, we never understand God’s will. There’s no worship, no thanksgiving, no petition, and no forgiveness. So pray to God, starting with Jesus’ instructions for prayer, and begin to make it your natural response to life just like Abraham’s servant.
 
 >And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people. - Ephesians 6:18
-
-![Dave Aldon thumbs up]({{ site.baseurl }}/assets/img/me_signature.jpg)
