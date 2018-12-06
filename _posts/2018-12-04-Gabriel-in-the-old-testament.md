@@ -11,7 +11,7 @@ As we get closer to celebrating Christmas, we often turn to the New Testament fo
 
 <!--more-->
 
-![Mossy cross grave]({{ site.baseurl }}/assets/img/pexels/angel.jpeg)
+![Angel statue]({{ site.baseurl }}/assets/img/pexels/angel.jpeg)
 
 The angel Gabriel shows up several times in the Old and New Testament. Why is this so important to talk about? Because when we connect Gabriel’s interactions together, we see a bigger picture of who God is. There are three interactions involving Gabriel that I’m going to go through, and they show us what it takes for God to look on us with favor, that Jesus’ birth was predicted to the very day, and that our prayers are answered before we’re even finished.
 
@@ -65,15 +65,14 @@ To understand Gabriel’s math, check [this article out](https://www.compellingt
 
 >“After the sixty-two ‘sevens,’ the Anointed One will be put to death and will have nothing.” - Daniel 9:26
 
-It’s incredible that Jesus’ life and death was predicted with such detail and precision, and by none other than Gabriel, who gets to talk about Jesus over a period of almost half a century! So Daniel adds one more example to the pile showing that Jesus’ coming and death was prophesied repeatedly in the Old Testament. But there’s one more message I wanted to talk about, a message we can more easily be encouraged by. Gabriel says to Daniel:
+It’s incredible that Jesus’ life and death was predicted with such detail and precision, and by none other than Gabriel, who gets to talk about Jesus over a period of almost half a millennium! So Daniel adds one more example to the pile showing that Jesus’ coming and death was prophesied repeatedly in the Old Testament. But there’s one more message I wanted to talk about, a message we can more easily be encouraged by. Gabriel says to Daniel:
 
 >“As soon as you began to pray, a word went out, which I have come to tell you, for you are highly esteemed.” - Daniel 9:23
 
-God answered Daniel’s prayer for mercy over Israel BEFORE he even finished! Know that when you pray according to his will, which is favorable, God hears you and is working well before you’re done! 
+God answered Daniel’s prayer for mercy over Israel BEFORE he even finished! Know that when you pray according to his will, which is favorable, God hears you and is working well before you’re done!
 
-So to reiterate, understand that God works in us when we acknowledge him and find favor with him, Jesus was talked about all throughout the Old Testament and was predicted to the day, and that God answers our prayers before we’re even finished! 
+So to reiterate, understand that God works in us when we acknowledge him and find favor with him, Jesus was talked about all throughout the Old Testament and was predicted to the day, and that God answers our prayers before we’re even finished!
 
 We can look back today at the intricacies of God’s plan, and look forward to celebrating Christmas this year, which marked the beginning of the fulfillment of all prophesy. So pray like Daniel and find favor with God, because God is eager to work in your life, just like how he worked in Zechariah, Mary, and Daniel’s lives too:
 
 >“Now, our God, hear the prayers and petitions of your servant. For your sake, Lord, look with favor on your desolate sanctuary. Give ear, our God, and hear; open your eyes and see the desolation of the city that bears your Name. We do not make requests of you because we are righteous, but because of your great mercy. Lord, listen! Lord, forgive! Lord, hear and act! For your sake, my God, do not delay, because your city and your people bear your Name.” - Daniel 9:17-19
-
