@@ -7,9 +7,9 @@ excerpt_separator: <!--more-->
 
 People pray in many different ways, whether it’s more formal, written and practiced, or casually and in a conversational manner. Either way, it’s how we consciously communicate with God. But because God knows our thoughts and desires before we tell them to him, what’s the point of praying?
 
->Your Father knows what you need before you ask him. - Matthew 6:8
-
 <!--more-->
+
+>Your Father knows what you need before you ask him. - Matthew 6:8
 
 ![Mossy cross grave]({{ site.baseurl }}/assets/img/pexels/pray.jpeg)
 

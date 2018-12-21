@@ -7,9 +7,9 @@ excerpt_separator: <!--more-->
 
 How do we know we’re saved? What do we have to do? There’s a lot of opinions on what it takes to receive salvation, so today we’re throwing that all out and instead looking at what examples are in the Bible. This will serve as a message to us for encouragement, because people like to complicate salvation in particular, and we know from the example of the Pharisees that harmful doctrines are formed around attempts to justify sin. Our encouragement will be that salvation is for anyone, in any situation, and at any time in history from Adam to today. But before we begin, let’s spoil the key to salvation and plainly observe the only requirements, which will be the consistent basis throughout all of scripture:
 
->If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. - Romans 10:9
-
 <!--more-->
+
+>If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. - Romans 10:9
 
 ![Mossy cross grave]({{ site.baseurl }}/assets/img/pexels/cross.jpeg)
 

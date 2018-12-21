@@ -7,9 +7,9 @@ excerpt_separator: <!--more-->
 
 As we get closer to celebrating Christmas, we often turn to the New Testament for relevant scripture and stories surrounding the arrival of Jesus. But recently a lot of things that stick out to me in scripture are the details we often overlook in order to get to the “good” parts. So what’s overlooked in New Testament stories about Jesus being born? The answer today is the Old Testament, and the angel who showed up to explain things.
 
->While I, Daniel, was watching the vision and trying to understand it, there before me stood one who looked like a man. And I heard a man’s voice from the Ulai calling, “Gabriel, tell this man the meaning of the vision.” Daniel 8:15-16
-
 <!--more-->
+
+>While I, Daniel, was watching the vision and trying to understand it, there before me stood one who looked like a man. And I heard a man’s voice from the Ulai calling, “Gabriel, tell this man the meaning of the vision.” Daniel 8:15-16
 
 ![Angel statue]({{ site.baseurl }}/assets/img/pexels/angel.jpeg)
 

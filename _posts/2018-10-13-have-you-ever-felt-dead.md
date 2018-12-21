@@ -10,9 +10,9 @@ excerpt_separator: <!--more-->
 
 When Jesus died, he stayed that way for three days before coming back to life. What was it like during these three days? We know through example, because the Old Testament contains people who experienced pieces of Jesus’ struggles to come. This is so that *when* we experience something similar, we will be prepared. We know that we will experience pieces of Jesus’ life because we are specifically called to be more like him:
 
->For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters. - Romans 8:29
-
 <!--more-->
+
+>For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters. - Romans 8:29
 
 ![Man in darkness]({{ site.baseurl }}/assets/img/pexels/dead.jpeg)
 

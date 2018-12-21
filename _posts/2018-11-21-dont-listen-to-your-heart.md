@@ -7,11 +7,11 @@ excerpt_separator: <!--more-->
 
 Temptation comes from many sources, which people mostly attribute directly to Satan. But if that was the only source, then Adam and Eve would have probably never sinned. So where else do sinful decisions come from? There are many things described negatively in the Bible, and one in particular is spoiled in the title of this post: our heart. In fact, even Satan himself is not as deceitful as our heart, and we know this because of this very blunt description:
 
+<!--more-->
+
 >The human heart is the most deceitful of all things, and desperately wicked. Who really knows how bad it is? - Jeremiah 17:9
 
 It is the MOST deceitful of all things. So the question is how do we combat this? We’re given plenty of instruction to resist Satan, but how do we defeat our deceitful heart, the greatest liar of them all?
-
-<!--more-->
 
 ![Mossy cross grave]({{ site.baseurl }}/assets/img/pexels/listening.jpeg)
 
