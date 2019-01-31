@@ -13,7 +13,7 @@ Pity, sympathy, empathy, and compassion are words we use to describe different d
 
 > As a father has compassion on his children, so the Lord has compassion on those who fear him. - Psalm 103:13
 
-![Infographic of pity, sympathy, empathy, compassion](https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full_caption/public/field_blog_entry_images/inforgraphic.png?itok=rirY9BK2)
+![Infographic of pity, sympathy, empathy, compassion]({{ site.baseurl }}/assets/img/portfolio/emotion-infographic.png)
 
 This infographic was created for a [blog](https://www.psychologytoday.com/us/blog/hide-and-seek/201505/empathy-vs-sympathy) post explaining these four emotions, and how each one escalates the amount of engagement. While we experience them at different times, God is able to exhibit *all* of these at all times. He simultaneously acknowledges, cares about, has experienced, and works to ease our suffering. Let’s jump right in and see this is action.
 
