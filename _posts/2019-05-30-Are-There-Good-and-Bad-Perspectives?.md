@@ -29,7 +29,7 @@ And if you still think God wants us to value this type of wisdom highly in our l
 
 There’s no way around this. If you focus on gathering this type of wisdom, it will kill you. But why are we looking at wisdom so much if the point of this post is to talk about perspective? Because they go hand in hand.
 
-> The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight. - Proverbs 9:10
+> The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight. - Proverbs 9:10
 
 To fear God is to understand where he is in the grand scheme of things, and where we are. As learning about the world changes our worldly perspective, learning about God changes our Godly perspective. And since seeking to gather worldly wisdom is demonic, seeking to gather Godly wisdom must give us the good perspective. This perspective is what changes lives. This perspective opens eyes and shows us how meaningless worldly pursuits are. This is God’s perspective, which we’ll look at next.
 
