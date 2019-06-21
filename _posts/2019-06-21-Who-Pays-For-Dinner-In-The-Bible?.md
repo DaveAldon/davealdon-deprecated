@@ -103,7 +103,7 @@ God lavishes his love on us so that we can be called his children. When Jacob, I
 
 If you’re a Christian woman, don’t look at the dinner tab, look for signs that the man you’re with is capable of **lavish** love. This can come in many forms, like paying for dinner on the first date. He doesn’t have to roll a stone away to feed your sheep. But if he’s the right man for you, he **will** go beyond what the lazy shepherds of today are offering. If you want a man who seeks to imitate Christ, he’ll do this, because God does it for you today.
 
-If you’re a Christian man, pray to God that he’ll reveal who the right woman is for you, like Isaac’s servant, because if you make the decision on your own, you’re wasting the time Jacob gave Rachel, and you’re wasting the gold that Isaac gave Rebekah. Do you really think God can’t bring the right person to you if you ask?
+If you’re a Christian man, pray to God that he’ll reveal who the right woman is for you, like Isaac’s servant, because if you make the decision on your own, you’re wasting the time Jacob gave Rachel, and you’re wasting the gold that Isaac gave Rebekah. Do you really think God can’t bring the right person to you if you ask? Pay for dinner. It's what Jaboc, Isaac, and Boaz did, and it's what God is doing for you right now.
 
 ### One More Thing
 
