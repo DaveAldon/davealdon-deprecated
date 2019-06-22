@@ -99,7 +99,7 @@ Therefore if you want to know who should pay for dinner, look at what gifts **Go
 
 > And may you have the power to understand, as all God's people should, how wide, how long, how high, and how deep his love is. May you experience the love of Christ, though it is too great to understand fully. Then you will be made complete with all the fullness of life and power that comes from God. - Ephesians 3:18-19
 
-God lavishes his love on us so that we can be called his children. When Jacob, Isaac, and Boaz paid for dinner, the were imitating God’s **lavish** love for us. This love doesn’t have to be romantic, in the example of Boaz, but it can lead to something greater than friendship.
+God lavishes his love on us so that we can be called his children. When Jacob, Isaac, and Boaz paid for dinner, they were imitating God’s **lavish** love for us. This love doesn’t have to be romantic, in the example of Boaz, but it can lead to something greater than friendship.
 
 If you’re a Christian woman, don’t look at the dinner tab, look for signs that the man you’re with is capable of **lavish** love. This can come in many forms, like paying for dinner on the first date. He doesn’t have to roll a stone away to feed your sheep. But if he’s the right man for you, he **will** go beyond what the lazy shepherds of today are offering. If you want a man who seeks to imitate Christ, he’ll do this, because God does it for you today.
 
