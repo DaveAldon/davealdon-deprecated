@@ -102,9 +102,9 @@ It would seem this final demonic influence would never leave Saul until his deat
 
 The Old Testament is full of demonic activity, and we’ve only glossed over a handful of the big ones. But the three examples of Ahab, Nebuchadnezzar, and Saul show us something very important to understand:
 
-God controls all demonic activity
-Salvation is not a byproduct of an exorcism
-Demonic influence is a sign of unrepented sin
+1. God controls all demonic activity
+2. Salvation is not a byproduct of an exorcism
+3. Demonic influence is a sign of unrepented sin
 
 So what can we do about this? Is it all hopeless? Certainly not! The Old Testament shows us flawed people just like you and me, and what happens if we continue to reject God, or if we proclaim that He is our King! Nebuchadnezzar returned to God, and so God removed the evil power from his life. Saul was given many chances and many exorcisms, but his stubbornness destroyed him. And Ahab was given neither exorcism nor mercy, because God was so fed up with his life of wickedness. Will we receive mercy? Will God give us another chance? We will, because Jesus died so that we may receive mercy and have the ability to **call on his name** to remove the sin and demonic influence in our life. If there is sin in your life, there is demonic power at work and you need to take a step towards God, because it is dangerous and sin will destroy you.
 
