@@ -21,13 +21,13 @@ Jesus performs an exorcism on a man, and the Pharisees think he’s doing it usi
 
 The commonly understood definition of an exorcism is when someone is a slave to the power of a demon, and that power is removed and the person is freed. But we’re going to go deeper than this, because the Bible describes many more things as demonic than simply being violently possessed. Consider these wide sweeping callouts of demonic activity:
 
-# Worldly Wisdom
+#### Worldly Wisdom
 > This wisdom is not that which comes down from above, but is earthly, natural, demonic. - James 3:15
 
-# Idolatry (worship of self, family, wealth, or other gods)
+#### Idolatry (worship of self, family, wealth, or other gods)
 > What do I imply then? That food offered to idols is anything, or that an idol is anything? No, I imply that what pagans sacrifice they offer to demons and not to God. - Corinthians 10:20
 
-# Sin
+#### Sin
 > And you He made alive, who were dead in trespasses and sins, in which you once walked according to the course of this world, according to Satan. - Ephesians 2:1-2
 
 If any demonic power over someone is removed, they are no longer a slave to it. And we can be slaves to worldly wisdom, idolatry, and simply all of sin. To have these influences removed is to cast out these demonic influences. When we serve these things, we are serving demons. An exorcism isn’t just removing a violent demon from someone, but the demonic powers of sin. God’s spirit does not dwell in someone who is under this control.
@@ -40,7 +40,7 @@ An exorcism is the opposite of this passage from Romans. It is freedom from the 
 
 Understanding that an exorcism is the removal of demonically sinful influence on someone, freeing them from the power of Satan, we’re led to see what the Old Testament has to say. There are three unique individuals who encounter a spectrum of demonic power, and we learn how much power Satan has over us through these examples, why they happen in the first place, and what the solution is. The first is an example of demonic influence that doesn’t end in a remedy, that is, there’s no exorcism:
 
-## Ahab
+#### Ahab
 
 > Micaiah continued, “Therefore hear the word of the Lord: I saw the Lord sitting on his throne with all the multitudes of heaven standing around him on his right and on his left. And the Lord said, ‘Who will entice Ahab into attacking Ramoth Gilead and going to his death there?’ One suggested this, and another that. Finally, a spirit came forward, stood before the Lord and said, ‘I will entice him.’ ‘By what means?’ the Lord asked. ‘I will go out and be a deceiving spirit in the mouths of all his prophets,’ he said. ‘You will succeed in enticing him,’ said the Lord. ‘Go and do it.’ So now the Lord has put a deceiving spirit in the mouths of all these prophets of yours. The Lord has decreed disaster for you.” - 1 Kings 19-23
 
@@ -54,7 +54,7 @@ The demonic influence on Ahab’s false prophets was because they and the king w
 
 The demonic influence on Ahab’s prophets was a result of God’s decision to give Ahab over to the things he worshipped. And when Ahab worshipped other gods, he was worshipping demons. So God gave him over to the demons, who deceived him and his false prophets, leading him to die in battle.
 
-## Nebuchadnezzar
+#### Nebuchadnezzar
 
 The second example is very much like Ahab, but there is a good ending.
 
@@ -66,7 +66,7 @@ I find it interesting that Nebuchadnezzar’s name means “O god Nabu, preserve
 
 Only when Nebuchadnezzar’s time of insanity was over with did he finally give up his Babylonian gods, and accepted the one true God. God gave him mercy and the demonic influence on his life was exorcised.
 
-## Saul
+#### Saul
 
 The last example is Saul. This is a middle ground between Ahab and Nebuchadnezzar. Saul receives mercy from God and experiences exorcisms, but in the end we know that he ultimately rejects God and dies. Demons are given power over Saul frequently throughout his life, which is due to his constant stubbornness with God. But this example also shows us that if someone has demonic influence removed, that doesn’t mean they’re invincible for the rest of their life.
 
@@ -102,9 +102,9 @@ It would seem this final demonic influence would never leave Saul until his deat
 
 The Old Testament is full of demonic activity, and we’ve only glossed over a handful of the big ones. But the three examples of Ahab, Nebuchadnezzar, and Saul show us something very important to understand:
 
-God controls all demonic activity
-Salvation is not a byproduct of an exorcism
-Demonic influence is a sign of unrepented sin
+1. God controls all demonic activity
+2. Salvation is not a byproduct of an exorcism
+3. Demonic influence is a sign of unrepented sin
 
 So what can we do about this? Is it all hopeless? Certainly not! The Old Testament shows us flawed people just like you and me, and what happens if we continue to reject God, or if we proclaim that He is our King! Nebuchadnezzar returned to God, and so God removed the evil power from his life. Saul was given many chances and many exorcisms, but his stubbornness destroyed him. And Ahab was given neither exorcism nor mercy, because God was so fed up with his life of wickedness. Will we receive mercy? Will God give us another chance? We will, because Jesus died so that we may receive mercy and have the ability to **call on his name** to remove the sin and demonic influence in our life. If there is sin in your life, there is demonic power at work and you need to take a step towards God, because it is dangerous and sin will destroy you.
 
