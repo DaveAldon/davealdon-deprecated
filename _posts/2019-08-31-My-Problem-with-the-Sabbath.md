@@ -30,13 +30,14 @@ But if we’re not under the law anymore, then does that mean we can murder and 
 And here is where we find that it’s physically unnecessary with the new covenant:
 
 > Circumcision has value if you observe the law, but if you break the law, you have become as though you had not been circumcised. So then, if those who are not circumcised keep the law’s requirements, will they not be regarded as though they were circumcised? - Romans 2:25-26
+
 And even more plainly:
 
 > Circumcision is nothing and uncircumcision is nothing, but keeping the commandments of God is what matters. - 1 Corinthians 7:19
 
-But aren’t the ten commandments part of the commandments of God? Abraham didn’t have the ten commandments. Adam and Eve didn’t have the ten commandments. In fact, nobody followed the Sabbath law until Moses, because it was especially given for Israel:
+But aren’t the ten commandments part of the commandments of God? Abraham didn’t have the ten commandments. Adam and Eve didn’t have the ten commandments. In fact, nobody followed the Sabbath law until Moses, because it was specially given for Israel:
 
-> Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the Lord that sanctify them. - Ezekiel 20:12
+> Moreover also I gave them my Sabbaths, to be a sign between me and them, that they might know that I am the Lord that sanctify them. - Ezekiel 20:12
 
 And even more specifically:
 
