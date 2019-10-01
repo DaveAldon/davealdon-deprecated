@@ -19,13 +19,13 @@ The first example of human sacrifice sets the basis for why it happens: pride. F
 
 > But you—come here, you children of a sorceress, you offspring of adulterers and prostitutes! - Isaiah 57:3
 
-~
+
 
 > And Jephthah made a vow to the Lord: “If you give the Ammonites into my hands, whatever comes out of the door of my house to meet me when I return in triumph from the Ammonites will be the Lord’s, and I will sacrifice it as a burnt offering.” - Judges 11:30-31
 
 > Who are you mocking? At whom do you sneer and stick out your tongue? Are you not a brood of rebels, the offspring of liars? - Isaiah 57:4
 
-~
+
 
 > When Jephthah returned to his home in Mizpah, who should come out to meet him but his daughter, dancing to the sound of timbrels! She was an only child. Except for her he had neither son nor daughter. When he saw her, he tore his clothes and cried, “Oh no, my daughter! You have brought me down and I am devastated. I have made a vow to the Lord that I cannot break.” - Judges 11:34-35
 
