@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: Ascension and Pentecost in the Old Testament
-tags: [Theology, Jesus, Samson, old testament, pentecost, ascension]
+tags: [Theology, Jesus, Samson, old testament, Pentecost, ascension]
 excerpt_separator: <!--more-->
 ---
 
@@ -65,9 +65,9 @@ Now that we understand where Jesus fits in this story, we can finally see the Ol
 
 > Then Manoah took a young goat, together with the grain offering, and sacrificed it on a rock to the Lord. And the Lord did an amazing thing while Manoah and his wife watched: As the flame blazed up from the altar toward heaven, the angel of the Lord ascended in the flame. Seeing this, Manoah and his wife fell with their faces to the ground. When the angel of the Lord did not show himself again to Manoah and his wife, Manoah realized that it was the angel of the Lord. - Judges 13:19-21
 
-Now when He had spoken these things, while they watched, He was taken up, and a cloud received Him out of their sight. - Acts 1:9
+> Now when He had spoken these things, while they watched, He was taken up, and a cloud received Him out of their sight. - Acts 1:9
 
-It’s pretty self explanatory at this point, isn’t it? The only difference is that there is no fire involved in the New Testament. But the significance of this is related to the difference between Old and New Testament sacrifice, which is another story in itself. But there’s one more thing to mention that is key to the whole topic: the pentecost.
+It’s pretty self explanatory at this point, isn’t it? The only difference is that there is no fire involved in the New Testament. But the significance of this is related to the difference between Old and New Testament sacrifice, which is another story in itself. But there’s one more thing to cover that is key to this whole topic: the Pentecost.
 
 ### The Pentecost
 
@@ -95,7 +95,7 @@ This is the Pentecost in the Old Testament. It’s an event in which the Holy Sp
 
 ### What This Means for Us
 
-We’ve seen the ascension, the Pentecost, and Jesus in the Old Testament. So what if Jesus was talking to Samson’s parents? So what if the Holy Spirit became available to Samson after Jesus ascended in fire? Why does this matter? It serves as an illustration of the great things the Holy Spirit can help us do, and it’s a warning of what happens when we reject God. Samson is a highly relatable person who has access to great power provided by the Holy Spirit. His life is full of betrayal, mistakes with women, overbearing influences he gives into, and high expectations from his family raising him as a strict Nazarite. But even in his failure, even when God fought against him and took away his strength, we can see that God was still waiting for him to finally return and restore him. Although Samson died in the end, he died like the thief on the cross, who said:
+We’ve seen the ascension, the Pentecost, and Jesus in the Old Testament. So what if Jesus was talking to Samson’s parents? So what if the Holy Spirit became available to Samson after Jesus ascended in fire? Why does this matter? It serves as an illustration of the great things the Holy Spirit can help us do, and it’s a warning of what happens when we reject God. Samson is a highly relatable person who has access to great power provided by the Holy Spirit. His life is full of betrayal, mistakes with women, overbearing influences he gives into, and high expectations from his family raising him as a strict Nazarite. But even in his failure, even when God fought against him and took away his strength, handing him over to his enemies, we can see that God was still waiting for him to finally return and restore him. Although Samson died in the end, he died like the thief on the cross, who said:
 
 > “And we indeed are suffering justly, for we are receiving what we deserve for our deeds.” - Luke 23:41 
 
