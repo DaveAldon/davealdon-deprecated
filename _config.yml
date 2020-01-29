@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://www.davealdon.com"
+url: "https://davealdon.github.io"
 title: Dave Aldon # site's title
 description: "God and Writing" # used by search engines
 
